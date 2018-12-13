@@ -16,6 +16,7 @@
 
 
 /* Column Styles */
+/* This separates the article into two or three columns depending on the size of the page. */
 article {
    column-width: 260px;
    column-gap: 20px;

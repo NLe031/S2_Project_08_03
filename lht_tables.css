@@ -17,6 +17,7 @@
    Mobile Styles: 0px to 640px 
    ===============================
 */
+/* This designs the table in mobile to have two columns, to hide the weekdays and to add color to the table.*/
 @media only screen and (max-width: 640px) {
 
     table,
@@ -72,6 +73,7 @@
    Tablet and Desktop Styles: greater than 640px
    =============================================
 */
+/* This designs the table for computers and adds color, shadows, and a transparent background image to the table. */
 @media only screen and (min-width: 641px) {
     table {
         background: url(lht_photo1.png) no-repeat;
